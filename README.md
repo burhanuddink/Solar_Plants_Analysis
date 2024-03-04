@@ -34,3 +34,5 @@ The predicted outcome of the project was to have clean, standardized, and proper
 
 ## Actual Outcome
 The project resulted in clean, standardized data ready for analysis and visualization in Power BI. The regression model provided insights into POA energy prediction, facilitating further analysis and decision-making. All the mentioned filters were successfully implemented. Four separate dashboards were created to analyze solar plants effectively: one for the entire portfolio, one for specific states, one for specific cities, and one for individual plant analysis, focusing on identifying the best performing meters and inverters.
+
+![Portfolio Analytics Page](https://example.com/solar_plant_image.jpg)
