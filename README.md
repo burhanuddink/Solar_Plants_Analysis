@@ -1,1 +1,1 @@
-# Solar_Plants_Analysis
+# Solar Plants Analysis
